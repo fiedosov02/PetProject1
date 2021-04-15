@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfFootballStadium xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FootballStadium>
+    <Name>edsad</Name>
+    <NumberofPlace>0</NumberofPlace>
+    <PriceOfTicket>0</PriceOfTicket>
+    <DayoOfGame>12</DayoOfGame>
+    <NameofCommand />
+  </FootballStadium>
+</ArrayOfFootballStadium>ng xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </NameofCommand>
+  </FootballStadium>
+  <FootballStadium>
+    <Name>dasdsadas</Name>
+    <NumberofPlace>0</NumberofPlace>
+    <PriceOfTicket>31</PriceOfTicket>
+    <DayoOfGame>0</DayoOfGame>
+    <NameofCommand>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </NameofCommand>
+  </FootballStadium>
+</ArrayOfFootballStadium>

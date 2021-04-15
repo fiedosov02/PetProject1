@@ -1,0 +1,36 @@
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csprojAssemblyReference.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfoInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfo.cs
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.deps.json
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.deps.json
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csprojAssemblyReference.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfoInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfo.cs
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csproj.CoreCompileInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\PL\obj\Debug\netcoreapp3.1\PL.pdb

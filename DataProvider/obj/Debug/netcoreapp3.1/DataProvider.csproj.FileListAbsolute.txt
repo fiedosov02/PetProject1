@@ -1,0 +1,18 @@
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.deps.json
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfoInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfo.cs
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csprojAssemblyReference.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.deps.json
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csprojAssemblyReference.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfoInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfo.cs
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.pdb

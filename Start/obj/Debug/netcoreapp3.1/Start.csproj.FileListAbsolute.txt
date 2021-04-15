@@ -1,0 +1,80 @@
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.exe
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.deps.json
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.json
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.dev.json
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csprojAssemblyReference.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfoInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfo.cs
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csproj.CopyComplete
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.dll
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.pdb
+C:\Users\DELL_5587_1\source\repos\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.genruntimeconfig.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.exe
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.deps.json
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.json
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.runtimeconfig.dev.json
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Start.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\PL.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csprojAssemblyReference.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfoInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.AssemblyInfo.cs
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csproj.CoreCompileInputs.cache
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.csproj.CopyComplete
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.dll
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.pdb
+C:\Users\fiedo\OneDrive\Рабочий стол\Лабораторні\kyrsova\Kyrsova\Start\obj\Debug\netcoreapp3.1\Start.genruntimeconfig.cache
